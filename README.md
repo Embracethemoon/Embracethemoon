@@ -2,6 +2,7 @@
 
 <!--
 **Embracethemoon/Embracethemoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 For convenience, you can just call me Kevin.
 
@@ -11,7 +12,6 @@ For convenience, you can just call me Kevin.
 - 📫 Reach me on [email](miaocnca@gmail.com)
 - 😄 Mainly using Notepad++ and Vim
 - ⚡ Fun fact: I am still new in CodeForces and want to participate more!
--->
 
 ---
 
