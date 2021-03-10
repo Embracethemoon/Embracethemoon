@@ -9,9 +9,9 @@ For convenience, you can just call me Kevin.
 - 🔭 Competitive Programmer using C++
 - 🌱 High school student in Vancouver, Canada
 - 👯 Looking to collaborate on competitive programming
-- 📫 Reach me on [email](miaocnca@gmail.com)
+- 📫 Reach me on email: azurexuan@163.com
 - 😄 Mainly using Notepad++ and Vim
-- ⚡ Fun fact: I am still new in CodeForces and want to participate more!
+- ⚡ I am still new in CodeForces and want to participate more!
 
 ---
 
