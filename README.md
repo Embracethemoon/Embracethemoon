@@ -17,6 +17,6 @@ For convenience, you can just call me Kevin.
 
 #### :sparkles: Current Project
 
-I'm currently developing a [competitive programming tutorial.](Embracethemoon.github.io)
+I'm currently developing a [competitive programming tutorial.](https://Embracethemoon.github.io)
 
 It includes some tutorial on C++, Algorithms, Data Structure, and CP Training Resource.
