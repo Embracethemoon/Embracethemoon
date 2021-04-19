@@ -13,8 +13,6 @@ For convenience, you can just call me Kevin.
 - 😄 Mainly using Notepad++ and Vim
 - ⚡ I am still new in CodeForces and want to participate more!
 
----
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Embracethemoon&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
