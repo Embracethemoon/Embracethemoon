@@ -15,6 +15,10 @@ For convenience, you can just call me Kevin.
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Embracethemoon&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 #### :sparkles: Current Project
 
 I'm currently developing a [competitive programming tutorial.](https://Embracethemoon.github.io)
